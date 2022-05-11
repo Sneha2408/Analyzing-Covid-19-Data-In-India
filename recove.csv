@@ -1,0 +1,35 @@
+State,Average time for recovery (Days),patients,average time in hospital (days)
+Chhattisgarh      ,12.319,35452,13.861
+Uttar Pradesh,25.073,124565,18.909
+Madhya Pradesh,68.36,102456,18.836
+Odisha,12.958,45612,22.945
+West Bengal,11.482,214566,7.15
+Bihar,16.569,31245,9.494
+Jharkhand,24.631,26541,7.664
+Rajasthan,14.157,325465,22.24
+Jammu and Kashmir,13.518,164512,14.699
+Himachal Pradesh,18.424,69845,6.283
+Uttarakhand ,19.815,74589,23.105
+Haryana,31.181,91546,34.464
+Delhi,22.704,310456,17.625
+Punjab,36.918,235422,28.58
+Chandigarh,31.725,235462,15.54
+Ladakh,28.14,12003,6.758
+Manipur,4.943,32541,16.514
+Arunachal Pradesh,6.283,86542,19.815
+Meghalaya,23.105,22001,31.181
+Assam,34.464,78456,22.704
+Nagaland,17.625,21456,36.918
+Sikkim,28.58,19245,31.725
+Mizoram,15.54,16452,28.14
+Tamil Nadu,6.758,325462,4.943
+Karnataka,16.514,265423,12.319
+Kerala,13.861,298756,25.073
+Andhra Pradesh ,18.909,245612,68.36
+Telangana,18.836,184561,12.958
+Puducherry,22.945,11002,11.482
+Andaman and Nicobar Islands,7.15,1027,16.569
+Gujarat,9.494,225648,24.631
+Goa,7.664,45123,14.157
+Maharashtra,22.24,298756,13.518
+"Dadra, Nagar Haveli, Daman and Diu",14.699,17456,18.424
